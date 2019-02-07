@@ -1,3 +1,10 @@
+OBSOLETE
+=========
+
+This project is obsolete.  Please use the official dns-ovh plugin instead:
+<https://certbot-dns-ovh.readthedocs.io/>.
+
+
 OVH DNS authenticator for certbot
 ==================================
 
